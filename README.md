@@ -23,29 +23,29 @@ Items specified in the challenge instructions are summarized below:
 
 **WeatherPY dataframe**  
 
-https://github.com/fhsal/WeatherPy/blob/main/images/Weather_df.png
+![img]https://github.com/fhsal/WeatherPy/blob/main/images/Weather_df.png
 
 
 **Hotel dataframe**  
 
-https://github.com/fhsal/WeatherPy/blob/main/images/Hotel_df.png
+![img]https://github.com/fhsal/WeatherPy/blob/main/images/Hotel_df.png
 
 
 **Travel Destinations Map**  
 
-https://github.com/fhsal/WeatherPy/blob/main/images/WeatherPy_vacation_map.png
+![img]https://github.com/fhsal/WeatherPy/blob/main/images/WeatherPy_vacation_map.png
 
 
 
 **Hotel Itinerary**
 
-https://github.com/fhsal/WeatherPy/blob/main/images/Itinerary_df.png
+![img]https://github.com/fhsal/WeatherPy/blob/main/images/Itinerary_df.png
 
 **Travel Map**  
 
-https://github.com/fhsal/WeatherPy/blob/main/images/WeatherPy_travel_map.png
+![img]https://github.com/fhsal/WeatherPy/blob/main/images/WeatherPy_travel_map.png
 
 **Hotel pop-up Map**  
 
-https://github.com/fhsal/WeatherPy/blob/main/images/WeatherPy_travel_map_markers.png
+![img]https://github.com/fhsal/WeatherPy/blob/main/images/WeatherPy_travel_map_markers.png
 
