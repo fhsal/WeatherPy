@@ -23,28 +23,29 @@ Items specified in the challenge instructions are summarized below:
 
 **WeatherPY dataframe**  
 
-https://github.com/fhsal/WeatherPy/blob/main/citibike_challenge_updated.pdf
+https://github.com/fhsal/WeatherPy/blob/main/images/Weather_df.png
 
 
 **Hotel dataframe**  
 
-https://github.com/fhsal/Bikesharing/blob/main/citibike_challenge_updated.pdf
+https://github.com/fhsal/WeatherPy/blob/main/images/Hotel_df.png
 
 
 **Travel Destinations Map**  
 
-https://github.com/fhsal/Bikesharing/blob/main/citibike_challenge_updated.pdf
+https://github.com/fhsal/WeatherPy/blob/main/images/WeatherPy_vacation_map.png
+
 
 
 **Hotel Itinerary**
 
-![img](https://github.com/fhsal/Bikesharing/blob/main/images/datetime_conversion.png)
+https://github.com/fhsal/WeatherPy/blob/main/images/Itinerary_df.png
 
 **Travel Map**  
 
-![img](https://github.com/fhsal/Bikesharing/blob/main/images/checkout_times.png)
+https://github.com/fhsal/WeatherPy/blob/main/images/WeatherPy_travel_map.png
 
 **Hotel pop-up Map**  
 
-![img](https://github.com/fhsal/Bikesharing/blob/main/images/checkout_times_by_gender.png)
+https://github.com/fhsal/WeatherPy/blob/main/images/WeatherPy_travel_map_markers.png
 
