@@ -5,72 +5,46 @@ CWRU Data Analytics Module Six Challenge
 
 ## Overview of Project
 
-The project involved learning about using Tableau to work with a dataset containing CitiBike ride data from September 2018. The effort included converting data formats using Pandas and producing a variety of visualizations using Tableau around tables and measures such as peak hours of the day, gender, station lat/long and trip duration.     
+The project involved learning about using API's by working with the OpenWeatherMap and google maps API.  The effort included generating 2000 lat/lng geolocation coordinates and using these to prompt a user to enter high/low temp conditions to search for hotels within the coordinate set, visualize those on a map. Four hotels were Then selected to build a trip itinerary and route map with pop-up information regarding hotel, city and weather information.      
 
 
 ### Purpose
 
-The purpose of the Challenge was to demonstrate learning Tableau data import, customization (via calculated fileds) and visualizations.   
-
-## Analysis 
-
-The Challenge focused upon ride data from September, 2018.  The visualizations involed mapping, filtering, using color and size to emphasize trends in the data and separate different types of riders vividly.  Each of the visualizations used the same dataset with separate Tableau worksheets with maps, line charts and heat maps. 
+The purpose of the Challenge was to demonstrate use of API's and visualizations to generate data used to interact with the API's, generating a clean dataset, interact with the user and then drive customized mapping visualizations based upon criteria input using OpenWeatherMap to collect data and google to create mapping and direction visualzations.   
 
 
 ### Summary
 
-The analysis shows peak hour usage in the morning and evening hours.   There are higher volumes of rides for males than for females, although the trends are similar.  Unknown genders appear to have higher numbers of trips on Saturdays, while males and femailes have higher days of use during the week - although Wednesday is lighter for both groups.  
+The 2000 lat/lng pairs randomly generated ultimately resulted in ~900 hotels being selected where name and location information could be found.   The visualizations are cool and the API's powerful.  
 
-### Potential additional visualizations
+Items specified in the challenge instructions are summarized below:
 
-There are several other potentially interesting visualizations;  Such as
+### Deliverables
 
-(1) Top pick up locations by gender and/or day and/or time of day
+**WeatherPY dataframe**  
 
-(2) Average trip duration by gender and/or day and/or time of day
+https://github.com/fhsal/WeatherPy/blob/main/citibike_challenge_updated.pdf
 
 
-### Tableau Story
-
-**Tableau story export**  
+**Hotel dataframe**  
 
 https://github.com/fhsal/Bikesharing/blob/main/citibike_challenge_updated.pdf
 
-### Code and visualizations  
 
-**Converting to datetime format**
+**Travel Destinations Map**  
+
+https://github.com/fhsal/Bikesharing/blob/main/citibike_challenge_updated.pdf
+
+
+**Hotel Itinerary**
 
 ![img](https://github.com/fhsal/Bikesharing/blob/main/images/datetime_conversion.png)
 
-**Checkout times**  
+**Travel Map**  
 
 ![img](https://github.com/fhsal/Bikesharing/blob/main/images/checkout_times.png)
 
-**Checkout times by gender**  
+**Hotel pop-up Map**  
 
 ![img](https://github.com/fhsal/Bikesharing/blob/main/images/checkout_times_by_gender.png)
-
-**Trips per hour**  
-
-![img](https://github.com/fhsal/Bikesharing/blob/main/images/trips_by_weekday_by_hour.png)
-
-
-**Trips by gender (per hour)**  
-
-![img](https://github.com/fhsal/Bikesharing/blob/main/images/trips_by_gender_by_hour.png)
-
-**User trips by gender by weekday**  
-
-![img](https://github.com/fhsal/Bikesharing/blob/main/images/trips_by_weekday_by_gender.png)
-
-
-**Top pickup locations**  
-
-![img](https://github.com/fhsal/Bikesharing/blob/main/images/top_starting_locations.png)
-
-**Average trip duration**  
-
-![img](https://github.com/fhsal/Bikesharing/blob/main/images/average_trip_duration.png)
-
-
 
